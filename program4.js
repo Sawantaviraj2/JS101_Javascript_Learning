@@ -1,5 +1,5 @@
 a=10;
-b="Masai";//string puropse 
+b="Masai";
 console.log(b);
-c="12";// String 
+c="12";
 console.log(c);
